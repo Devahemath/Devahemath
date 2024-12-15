@@ -13,7 +13,7 @@ Electronics and Communication Engineering Student,
  - AWS Cloud Architecting
    
 Contact me : 
-   <div align="center">
+   <div align="left">
   <a href="https://www.instagram.com/hemath_massive/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
   </a>
