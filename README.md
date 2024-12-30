@@ -7,11 +7,6 @@ Electronics and Communication Engineering Student,
 - 🔭 To improve my skills and Knowledge                                              
 - 🌱 I’m currently learning Ethical Hacking
 
-🎓 Certifications
- - Cisco Python Essentials Graduate
- - NPTEL Certified - Internet of Things (75%)
- - AWS Cloud Architecting
-
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
